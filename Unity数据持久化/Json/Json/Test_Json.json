@@ -1,0 +1,26 @@
+{
+  "name": "Yang",
+  "age": 18,
+  "sex": true,
+  "testF": 1.4,
+  "ids": [ 1, 2, 3, 4 ],
+  "students": [
+    {
+      "name": "小红",
+      "age": 10,
+      "sex": false
+    },
+    {
+      "name": "小明",
+      "age": 8,
+      "sex": true
+    }
+  ],
+  "home": {
+    "address": "WuHan",
+    "street": "LiuJiaFu"
+  },
+  "son": null,
+  //字典 键会变成双引号，转换时注意
+  "dic":{"1": "123", "2": "234"}
+}
